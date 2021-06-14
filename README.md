@@ -1,3 +1,5 @@
-##GlassHouse
+# GlassHouse
 
-A small watchapp i wrote using pebble.js for hack the burgh 2016.
+The frontend for a pebble watch app that displays weather information. 
+
+Developed for Hack The Burgh 2016.
